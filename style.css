@@ -1,5 +1,5 @@
 body {
-	width: 70%; margin: 0 auto;
+	width: 70%; margin: 0 auto; background-color: whitesmoke;
 }
 header {
 
@@ -9,4 +9,10 @@ footer {
 	text-align: center;
 }
 h1 { font-family: Helvetica; text-align: center;
+}
+img {
+	align-content: center;
+}
+iframe {
+	align-content: center;
 }
