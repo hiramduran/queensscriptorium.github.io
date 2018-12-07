@@ -1,0 +1,12 @@
+body {
+	width: 70%; margin: 0 auto;
+}
+header {
+
+	text-align: center; font-family: "Lucida Sans Unicode"; font-size: 30px;
+}
+footer {
+	text-align: center;
+}
+h1 { font-family: Helvetica; text-align: center;
+}
